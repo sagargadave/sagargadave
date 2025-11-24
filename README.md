@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargadave" alt="sagargadave" /> </p>
+<h1 align="center">Hi 👋, I'm Sagar Gadave</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
-<!--
-**sagargadave/sagargadave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 I’m currently pursuing an MSc(Computer Science)
+  
+- 📈 I regularly solve LeetCode problems
+    
+- 🌱 I’m learning [Technology / Framework]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I’m currently exploring internship and entry-level software development opportunities
+---
+<h2 align="center">Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-gadave-13a576362/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/sagargadave" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
