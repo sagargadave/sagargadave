@@ -3,10 +3,6 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🎓 I’m currently pursuing an MSc(Computer Science)
-  
-- 📈 I regularly solve LeetCode problems
-    
-- 💼 I’m currently exploring internship and entry-level software development opportunities
 </p>
 <h3>Technical Summary : </h3>
 
