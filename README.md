@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Gadave</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🎓 Currently pursuing an MSc(Computer Science)
+- 🎓 Pursuing an MSc(Computer Science)
 </p>
 <h3>Technical Summary : </h3>
 
