@@ -6,9 +6,9 @@
 </p>
 <h3>Technical Summary : </h3>
 
-- Programming : C, C++, Java, Python
+- Programming : C, C++, Java
 
-- Frontend : HTML, CSS, Angular, Javascript
+- Frontend : HTML, CSS, Angular
 
 - Backend : Spring Boot, Java
   
