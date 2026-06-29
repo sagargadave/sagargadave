@@ -6,7 +6,7 @@
 
 - 🎓 Pursuing MSc in Computer Science.
 - 💻 Passionate about Software Development and Backend Engineering.
-- ⚙️ Skilled in Java, Spring Boot, Angular, ad MySQL.
+- ⚙️ Skilled in Java, Spring Boot, Angular, and MySQL.
 - 🚀 Built full-stack applications and software projects using modern technologies.
 - 🧩 Strong foundation in Object-Oriented Programming.
 - 📚 Regularly solving coding problems and exploring new technologies.
