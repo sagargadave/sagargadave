@@ -32,10 +32,11 @@
 </p>
 
 ---
-## LeetCode Stats
+<h2 align="center">LeetCode Stats</h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sagargadave?theme=dark&ext=contest)
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sagargadave?theme=dark&font=Karma&ext=contest&width=500" />
+</p>
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-gadave-13a576362/" target="_blank">
