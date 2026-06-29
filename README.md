@@ -1,9 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargadave" alt="sagargadave" /> </p>
 <h1 align="center">Hi 👋, I'm Sagar Gadave</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">MSc Computer Science Student | Java & Spring Boot Developer</h3>
 
-- 🎓 Pursuing an MSc(Computer Science)
-</p>
+### About Me
+
+- 🎓 Pursuing MSc in Computer Science.
+- 💻 Passionate about Software Development and Backend Engineering.
+- ⚙️ Skilled in Java, Spring Boot, Angular, ad MySQL.
+- 🚀 Built full-stack applications and software projects using modern technologies.
+- 🧩 Strong foundation in Object-Oriented Programming.
+- 📚 Regularly solving coding problems and exploring new technologies.
+- 🎯 Seeking opportunities to apply my skills and grow as a Software Developer.
+  
+---  
 <h3>Technical Summary : </h3>
 
 - Programming : C, C++, Java
@@ -15,6 +24,14 @@
 - Database : MySQL, MongoDB
 ---
 
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagargadave&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=sagargadave&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" height="170"/>
+</p>
+
+---
 ## LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sagargadave?theme=dark&ext=contest)
