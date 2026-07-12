@@ -7,7 +7,7 @@
 - 🎓 Pursuing MSc in Computer Science.
 - 💻 Passionate about Software Development and Backend Engineering.
 - 🧩 Strong foundation in Object-Oriented Programming.
-- 📚 Regularly solving coding problems and exploring new technologies.
+- 💡  Regularly solving coding problems and exploring new technologies.
 - 🎯 Seeking opportunities to apply my skills and grow as a Software Developer.  
 ---  
 <h3>Technical Summary : </h3>
