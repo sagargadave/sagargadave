@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargadave" alt="sagargadave" /> </p>
 <h1 align="center">Hi 👋, I'm Sagar Gadave</h1>
-<h3 align="center">MSc Computer Science Student | Java & Spring Boot Developer</h3>
+<h3 align="center">MSc Computer Science Student | Aspiring Software Developer</h3>
 
 ### About Me
 
@@ -14,7 +14,7 @@
 
 - Programming : C, C++, Java
 
-- Frontend : HTML, CSS, Angular
+- Frontend : HTML, CSS, JavaScript, Angular
 
 - Backend : Spring Boot, Java
   
